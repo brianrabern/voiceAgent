@@ -1,0 +1,26 @@
+{
+  "issue_id": "12346",
+  "phone_number": "+15415304337",
+  "first_name": "Johnny",
+  "company": "XYZ Plumbing",
+  "company_description": "A plumbing service provider specializing in residential repairs.",
+  "availability": [
+    {
+      "date": "2025-02-24",
+      "day": "Monday",
+      "slots": ["10:00", "14:00"]
+    },
+    {
+      "date": "2025-02-26",
+      "day": "Wednesday",
+      "slots": ["15:00", "17:00"]
+    },
+    {
+      "date": "2025-02-28",
+      "day": "Friday",
+      "slots": ["13:00"]
+    }
+  ],
+  "issue": "Kitchen sink leaking",
+  "language": "en"
+}
